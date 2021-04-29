@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nadiabaig, a bioinformatician.
-I am PhD student in Institute of Quantitative Genetics and Genomics for plants in Heinrich-Heine-Universität Germany.
+I am a PhD student in Institute of Quantitative Genetics and Genomics for plants in Heinrich-Heine-Universität Germany.
 
 ## [Academic interests]
 - 👀 My academic interests are developing genomic tools for potatoes aiming to recast the conventional ways of breeding and genome selection process.
