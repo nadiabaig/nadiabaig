@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - I’m @nadiabaig.
 I am a PhD Researcher in Institute of Quantitative Genetics and Genomics for plants in Heinrich-Heine-Universität Germany.
-I have major in Bioinformatics and trying each day to become an even better Bioinformatician..
+I have major in Bioinformatics.
 
 # Academic interests
 - 👀 My academic interests are developing genomic tools for potatoes aiming to recast the conventional ways of breeding and genome selection process.
