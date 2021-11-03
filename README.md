@@ -4,9 +4,10 @@ I am a PhD Researcher in Institute of Quantitative Genetics and Genomics for pla
 I have major in Bioinformatics.
 
 # Academic interests
-- 👀 My academic interests are developing genomic tools for potatoes aiming to recast the conventional ways of breeding and genome selection process.
-- Next Generation sequencing data analysis including RNA-seq, whole genome sequencing
-- 🌱 I’m currently learning Machine learning
+- 👀 My academic interests included Next Generation sequencing data analysis including RNA-seq
+- Keep upto-date with the latest computational biology methodologies and incluse them in my pipelines
+- Writing scripts mostly in python for analysing and interpreting highthrouhput data i.e SNP data
+- 🌱 Eager to learn Machine learning
 
 # Skills
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
