@@ -22,4 +22,3 @@ I have major in Bioinformatics.
 
 # Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiabaig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
