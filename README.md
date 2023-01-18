@@ -18,7 +18,7 @@ I have major in Bioinformatics.
 ![](https://img.shields.io/badge/BioinformaticsSkills-NGS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 # Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiabaig&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 # Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiabaig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
