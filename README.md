@@ -6,7 +6,6 @@ I have major in Bioinformatics.
 # Academic interests
 - 👀 My academic interests included Next Generation sequencing data analysis including RNA-seq
 - Keep upto-date with the latest computational biology methodologies and include them in my pipelines
-- Writing scripts mostly in python for analyzing and interpreting highthrouhput data i.e SNP data
 - 🌱 Eager to learn Machine learning
 
 # Skills
