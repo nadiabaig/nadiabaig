@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - I’m @nadiabaig.
 I am a PhD Researcher in Institute of Quantitative Genetics and Genomics for plants in Heinrich-Heine-Universität Germany.
 I have major in Bioinformatics.
